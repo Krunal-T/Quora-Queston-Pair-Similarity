@@ -24,13 +24,9 @@ All the detail for the following are present in - https://www.kaggle.com/c/quora
 # Algorithm 
  -Logistic Regression
  <br>
- -Linear Support Vector Classifier
- <br>
- -Kernel Support Vector Classifier
- <br>
- -Decision Tree Classifier
- <br>
  -Random Forest Classfier
+ <br>
+ -XGBoost
  <br>
 
 
